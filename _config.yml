@@ -1,0 +1,14 @@
+layout_spectrum: 0.8202432987745851
+typography_spectrum: 0.9159936769865453
+color:
+  brandStrength: 0.43714304780587554
+  lightness: 0.7742218598723412
+  saturation: 0.22930514812469482
+  rhythmicContrast: 0.380632895976305
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Dynamic Networking Solution
